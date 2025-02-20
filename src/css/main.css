@@ -23,14 +23,6 @@ body {
   flex-direction: column;
 }
 
-@media (min-width: 900px) {
-  body {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS0IQhVr9DDJCq61QX28zCoiqDrvezBh5ylw&s");
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: right;
-  }
-}
 .header {
   background-color: red;
   color: white;
